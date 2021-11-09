@@ -1,2 +1,4 @@
 # ko-fi-customization
-customizing ko-fi alerts
+Customizing ko-fi alerts
+
+Put index.css in the override for your stuff.
